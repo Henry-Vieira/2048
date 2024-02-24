@@ -1,0 +1,1 @@
+Esse Jogo foi o problema da matéria de algoritmos do semestre 2023.2 da UEFS, Consiste no codigo fonte do jogo 2048, somar os numeros até um chegar no valor correspondente ao seu nome. O jogo no momento funciona somente no terminal do seu interpretador de código, porém, posteriormente pretendo adicioná-lo na web.
